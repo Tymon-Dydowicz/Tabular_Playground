@@ -1,0 +1,6 @@
+[core]
+    remote = tabular_data
+['remote "tabular"']
+    url = C:\Users\tymon\AppData\Local\Temp\dvcstore
+['remote "tabular_data"']
+    url = ../Lab14_Assignment3/dvcstore
